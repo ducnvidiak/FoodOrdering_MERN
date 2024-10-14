@@ -1,0 +1,12 @@
+.move-up {
+  position: fixed;
+  right: 50px;
+  bottom: 80px;
+  background-color: tomato;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
